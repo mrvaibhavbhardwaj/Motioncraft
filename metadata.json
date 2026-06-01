@@ -1,0 +1,6 @@
+{
+  "name": "MotionCraft",
+  "description": "An offline-first studio to record screen/camera sessions, upload custom video tracks, trim ranges, adjust video filters and aspect ratios, tune equalizer bands with Smart Audio Cleaning, and export high-quality clips.",
+  "requestFramePermissions": ["camera", "microphone", "display-capture"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
